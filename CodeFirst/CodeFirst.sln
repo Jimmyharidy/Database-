@@ -21,6 +21,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TahoeAwesomeExtensions", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListFromDatabase", "ListFromDatabase\ListFromDatabase.csproj", "{C5D0882C-56AB-4606-97E9-40AB2E739EC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExpressions", "LinqExpressions\LinqExpressions.csproj", "{9D9A133A-E106-4914-99DA-BFDD69C2E865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaLinqExpressions", "LambdaLinqExpressions\LambdaLinqExpressions.csproj", "{61B0CE5B-CEE8-4AA7-B606-C8D0347A53A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaLinqExpressionsTraining", "LambdaLinqExpressionsTraining\LambdaLinqExpressionsTraining.csproj", "{5D260DDB-9B38-4B44-BD5F-D7F0C439F18D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +69,18 @@ Global
 		{C5D0882C-56AB-4606-97E9-40AB2E739EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5D0882C-56AB-4606-97E9-40AB2E739EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5D0882C-56AB-4606-97E9-40AB2E739EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9A133A-E106-4914-99DA-BFDD69C2E865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9A133A-E106-4914-99DA-BFDD69C2E865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9A133A-E106-4914-99DA-BFDD69C2E865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9A133A-E106-4914-99DA-BFDD69C2E865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B0CE5B-CEE8-4AA7-B606-C8D0347A53A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B0CE5B-CEE8-4AA7-B606-C8D0347A53A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B0CE5B-CEE8-4AA7-B606-C8D0347A53A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B0CE5B-CEE8-4AA7-B606-C8D0347A53A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D260DDB-9B38-4B44-BD5F-D7F0C439F18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D260DDB-9B38-4B44-BD5F-D7F0C439F18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D260DDB-9B38-4B44-BD5F-D7F0C439F18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D260DDB-9B38-4B44-BD5F-D7F0C439F18D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
