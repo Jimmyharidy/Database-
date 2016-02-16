@@ -26,6 +26,7 @@ namespace CRUD
         public Nullable<int> PaymentMethod { get; set; }
         public Nullable<int> Tel { get; set; }
         public Nullable<int> Telefon { get; set; }
+        public Nullable<int> AuthorAge { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Title> Titles { get; set; }
