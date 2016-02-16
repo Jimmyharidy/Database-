@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLab", "LinqLab\LinqLab.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangesINDatabase", "ChangesINDatabase\ChangesINDatabase.csproj", "{DDE05612-0EF1-48FE-9581-952479498E0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD", "CRUD\CRUD.csproj", "{2454401C-5859-428A-8D64-46C2FEAFDB6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{DDE05612-0EF1-48FE-9581-952479498E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDE05612-0EF1-48FE-9581-952479498E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDE05612-0EF1-48FE-9581-952479498E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2454401C-5859-428A-8D64-46C2FEAFDB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2454401C-5859-428A-8D64-46C2FEAFDB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2454401C-5859-428A-8D64-46C2FEAFDB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2454401C-5859-428A-8D64-46C2FEAFDB6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
